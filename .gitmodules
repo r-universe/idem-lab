@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/idem-lab/universe
+	url = https://github.com/idem-lab/idem-lab.r-universe.dev
 	branch = HEAD
 [submodule "conmat"]
 	path = conmat
