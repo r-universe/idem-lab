@@ -2,6 +2,12 @@
   {
     "package": "multispeciesPP",
     "url": "https://github.com/wfithian/multispeciesPP",
+    "via": ["sdmtools"],
+    "from": "sdmtools"
+  },
+  {
+    "package": "multispeciesPP",
+    "url": "https://github.com/wfithian/multispeciesPP",
     "via": ["traveltime", "sdmtools"],
     "from": "traveltime"
   },
