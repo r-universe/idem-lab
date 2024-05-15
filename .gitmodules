@@ -5,3 +5,9 @@
 [submodule "conmat"]
 	path = conmat
 	url = https://github.com/idem-lab/conmat
+[submodule "sdmtools"]
+	path = sdmtools
+	url = https://github.com/idem-lab/sdmtools
+[submodule "traveltime"]
+	path = traveltime
+	url = https://github.com/idem-lab/traveltime
