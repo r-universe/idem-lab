@@ -4,17 +4,5 @@
     "url": "https://github.com/wfithian/multispeciesPP",
     "via": ["sdmtools"],
     "from": "sdmtools"
-  },
-  {
-    "package": "multispeciesPP",
-    "url": "https://github.com/wfithian/multispeciesPP",
-    "via": ["traveltime", "sdmtools"],
-    "from": "traveltime"
-  },
-  {
-    "package": "sdmtools",
-    "url": "https://github.com/idem-lab/sdmtools",
-    "via": ["traveltime"],
-    "from": "traveltime"
   }
 ]
