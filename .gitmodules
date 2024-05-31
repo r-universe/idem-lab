@@ -5,6 +5,9 @@
 [submodule "conmat"]
 	path = conmat
 	url = https://github.com/idem-lab/conmat
+[submodule "idpalette"]
+	path = idpalette
+	url = https://github.com/idem-lab/idpalette
 [submodule "multispeciesPP"]
 	path = multispeciesPP
 	url = https://github.com/wfithian/multispeciesPP
