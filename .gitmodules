@@ -8,10 +8,6 @@
 [submodule "idpalette"]
 	path = idpalette
 	url = https://github.com/idem-lab/idpalette
-[submodule "multispeciesPP"]
-	path = multispeciesPP
-	url = https://github.com/wfithian/multispeciesPP
-	registered = false
 [submodule "sdmtools"]
 	path = sdmtools
 	url = https://github.com/idem-lab/sdmtools
